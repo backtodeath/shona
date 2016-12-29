@@ -16,11 +16,11 @@
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>B49MVn0RJDU96Aa+pT1fUehMbgAVMrsdD/D2y9JQ4A0=</DigestValue>
+<DigestValue>dmVYe8YZ8q25BkhKyHVXUBzwln/4Khy4XnrsdxXSZCA=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>cwkcLWo8r9oK10qMzZbvmKihLianZFFQGOxCcUm75hU=</DigestValue>
+<DigestValue>J2eQaOzK7jMvdSX12oOg/T7+nyyWZrBEHumA8hGoJkw=</DigestValue>
 </Reference>
 <Reference URI="css%2Fmobile-angular-ui-base.min.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -119,9 +119,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-JyzzzsBvK3Prcg8gQTh5crRue9KOo2CXXgCz7tHatdo74Ym6bceCFUGX4/1bZvyR5ifSV3R97d7J
-1J8RLFdrRGYHxRZCeJ8syaXXHKGXPk5ecJPB7CTg6h1BOzxK0EsLxnWlUWg6urxiWDST/U2IjyA4
-WKrPIql9n/rW9bxPYNk=
+Cp5JNa7DGSpjamGvnhhrKxst+YXvvVCuStsgMlRBfpEWOf8tGGSsDsYPBvbs1unIFHI2BvcKINeN
+4DwSyHvD6qmWzbAhS5zGx9uWH4QWAUftQ6vmrlBUdXn/kpNUvsd9nxftE4iEKOYpLFrVql2pIyFZ
+sjmcOBVIXe7KNWmTufM=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

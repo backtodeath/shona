@@ -16,7 +16,7 @@
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>cwkcLWo8r9oK10qMzZbvmKihLianZFFQGOxCcUm75hU=</DigestValue>
+<DigestValue>J2eQaOzK7jMvdSX12oOg/T7+nyyWZrBEHumA8hGoJkw=</DigestValue>
 </Reference>
 <Reference URI="css%2Fmobile-angular-ui-base.min.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -115,9 +115,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-ZbrvM1hMhP+mMD01hE5C59DNWuo7S9GlNBnfLgVkP/HILtzYY2ACH0NdB+SJP3tToAqIE3+rtqiF
-QoIzOsSkpjZJQcR8SlHdS96usoc6rWnzQFee1oHmpeLAcD7VGO5ScyspJjWbUGDq/uVVdDQNIzci
-RHUZWhlDQR89317Hwh0=
+S1NRVDL2HjGwOuONxBfLhLhK9J4UqwDdbAs+J/DatkSWClgPu9jeaR3oFmYJB2yt2zVtotWYm/D+
++JNtyCDVd/QtYNAXmdYzV760MV4Alqc++kNe2FAORg2cZ4Eqa/gfYAFgr7zB/ouCT6suAGFWZRO4
+9X2ofs3Xewyv+ViATNI=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
