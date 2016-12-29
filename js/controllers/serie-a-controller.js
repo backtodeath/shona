@@ -5,9 +5,21 @@
 			.module('serieAApp')
 			.controller('SerieAController', SerieAController);
 	
-	SerieAController.$inject = ['$rootScope', '$localStorage', 'dataService', '$http', '$scope'];
+	SerieAController.$inject = ['$rootScope', '$localStorage', 'dataService', '$http', '$scope','$window'];
 	
-	function SerieAController($rootScope, $localStorage, dataService, $http, $scope) {	
+	function SerieAController($rootScope, $localStorage, dataService, $http, $scope, $window) {	
+		
+		 var buttonEvent = function(e) {
+		        if ( e.keyName == "back" ) {
+	            	tizen.application.getCurrentApplication().exit();
+		        }
+		        if ( e.keyName == "menu" ) {
+		        	  $rootScope.Ui.toggle('uiSidebarLeft');
+		        }
+		    }
+		    
+	    document.addEventListener( 'tizenhwkey', buttonEvent );
+		
 		var defaultUrl = 'http://soccer.sportsopendata.net';
 		var SCORES_SERVICE_URL = 'http://soccer.sportsopendata.net/v1/leagues/serie-a/seasons/16-17/standings';
 		var refreshTimeDelay = 1000;
@@ -17,7 +29,7 @@
 		$scope.userAgent = navigator.userAgent;
 	
 		// Needed for the loading screen
-		$rootScope.$on('$routeChangeStart', function() {
+		$rootScope.$on('$routeChangeStart', function(a,b,c) {
 			$rootScope.loading = true;
 		});
 	

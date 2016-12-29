@@ -82,3 +82,20 @@ pre {
 input.scrollable-header {
   border-bottom: 3px solid #ccc;
 }
+
+.sidebar-left {
+	background-color:#191926!important;
+}
+
+.list-group-item{
+	background-color:#191926!important;
+	border-bottom:none!important;
+}
+
+.active-season{
+	background-color:#007AFF!important;
+}
+
+.years-label{
+	color: white;
+}
