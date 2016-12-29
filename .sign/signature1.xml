@@ -2,10 +2,6 @@
 <SignedInfo>
 <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
-<Reference URI=".gitignore">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>kSb3RPBuFBKACFOO9lqOrbxX8qQFtmHxoPoaE5l7gRY=</DigestValue>
-</Reference>
 <Reference URI="angular-route_license.md">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>MU3EUGVQfGc+1th+nnf0KAS/qgtBORoO3Zp3v7iqdNU=</DigestValue>
@@ -16,11 +12,11 @@
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>dmVYe8YZ8q25BkhKyHVXUBzwln/4Khy4XnrsdxXSZCA=</DigestValue>
+<DigestValue>8eGphbEf22+116NuFzSKSRl+idQCBmCD9Ye+5IndRIg=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>J2eQaOzK7jMvdSX12oOg/T7+nyyWZrBEHumA8hGoJkw=</DigestValue>
+<DigestValue>ZSfG+go8Gc8JOcTfEqn/Rsg4qDOyZhvmMCEbgd5rHt0=</DigestValue>
 </Reference>
 <Reference URI="css%2Fmobile-angular-ui-base.min.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -119,9 +115,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-Cp5JNa7DGSpjamGvnhhrKxst+YXvvVCuStsgMlRBfpEWOf8tGGSsDsYPBvbs1unIFHI2BvcKINeN
-4DwSyHvD6qmWzbAhS5zGx9uWH4QWAUftQ6vmrlBUdXn/kpNUvsd9nxftE4iEKOYpLFrVql2pIyFZ
-sjmcOBVIXe7KNWmTufM=
+ffmSfMrGV0X9XFEoIcxq1JKjGY/PBeldOSguzl6bS+h0HzpKjTBiSHxFju7oyVaGVyPdD83FU8ft
+0odSS2622pzp382MbVTfmU4ekpi72LHn3XqxBSsfT/aRr7WhLpEuibA9tWMpgLmj9UEiF61JRJUg
+3hUl5e4VgxlrfJpajiY=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
