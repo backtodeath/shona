@@ -16,7 +16,7 @@
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>DoI7Fluu0f9FqiiuGd2+W0ADmB45Mp+mUFSIiJiwM5c=</DigestValue>
+<DigestValue>cwkcLWo8r9oK10qMzZbvmKihLianZFFQGOxCcUm75hU=</DigestValue>
 </Reference>
 <Reference URI="css%2Fmobile-angular-ui-base.min.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -115,9 +115,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-LPOTuWR17UkpR+Uju/2LCJeYY0Kmci9HIViKQr1B74eZ6byxsT2/NRqmy9uP37HULsOfjWiSRyiz
-ieSGSNYjOWbZaiGpaO7JeyDpCqo937R3eYYlE8PajdUa/78S6Z+pmzKpeom3B7jh+2HfITogUTkv
-B65dZCCYrT+xL5VvZNM=
+ZbrvM1hMhP+mMD01hE5C59DNWuo7S9GlNBnfLgVkP/HILtzYY2ACH0NdB+SJP3tToAqIE3+rtqiF
+QoIzOsSkpjZJQcR8SlHdS96usoc6rWnzQFee1oHmpeLAcD7VGO5ScyspJjWbUGDq/uVVdDQNIzci
+RHUZWhlDQR89317Hwh0=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
