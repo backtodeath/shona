@@ -4,7 +4,7 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>nCdf4cPYK4xYb1eVfF0Kn9CwjAfqQSYnR/EYUEGsdQ0=</DigestValue>
+<DigestValue>6MhdklWZv277V/TQdN5duNWvMHrp2WbFhk1+bvqLJRc=</DigestValue>
 </Reference>
 <Reference URI="bible%2FBooks.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -292,7 +292,7 @@
 </Reference>
 <Reference URI="js%2Fapp.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>qPNOK2iczE89bdeyshw/HARkccuqhgbdHbrfDp3gY80=</DigestValue>
+<DigestValue>ax3LQny8X5772nSEb50bV2mqSo61LM6eXFdIfqh9U1c=</DigestValue>
 </Reference>
 <Reference URI="js%2Fcontrollers.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -407,9 +407,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-MFuL5MVCnKtzNH9oVwa5EaVHGaV/Ylydes3jv8hW+5/hJCpNu6mJ8hmvgrrhYmhp+B5Ahz078CVN
-7x2zlaNVIhrceECgG8tdPe8ix25XPdlTGTNSM3HaDyo5OudnDTuEjwp6HIdHU36sUEJe3kWsvo+X
-gUVCiujPkFhxu8/WZz8=
+B56LrzJIbeeIw3nialIO3qDQGAKCRoVDnP/l+gMomi/YCSyST8dH2Xen+YPXaay3b0ZEF9urOQA/
+aMt7rabLAfOoVYmPX1nCoHj9IwSPaMcngRwm+7IvB5tZ8SXa4OesTUSI0oVUUdNo6fLI5Q1OUl8k
+3OBn6SLWLIRewzd49ek=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

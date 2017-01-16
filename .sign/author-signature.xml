@@ -288,7 +288,7 @@
 </Reference>
 <Reference URI="js%2Fapp.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>qPNOK2iczE89bdeyshw/HARkccuqhgbdHbrfDp3gY80=</DigestValue>
+<DigestValue>ax3LQny8X5772nSEb50bV2mqSo61LM6eXFdIfqh9U1c=</DigestValue>
 </Reference>
 <Reference URI="js%2Fcontrollers.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -403,9 +403,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-WQySrYEonHsEHA5xVX0clyDTuR0ROf/J+7Kx/LzAlgLbzXuYDm4Bg7UFE1nG0TD0JgDMYE07vRxi
-wIIZ+t0LIEHOcEPTo/7pJbW0Ns7BNYjtXMzXfxkov673O6QUwMgfM82o1sDY9sY9E8iKgVaQ58If
-iY0qVUEA3pFEbB+VOVA=
+sUUl7e5quhqITJ+tzbtbLqrLJPwW+DYetjuK1SHqFHDovFiLVUPG++pmWtqWGtnI/WoFyZ5qdlBM
+3jKGzkNBFc+rijp309QXI3PcgY+5y+unJcuFEtxb07vSO1kOHqqV3NKp2HliqdmiHBhiYPo857Fm
+7aMd1fqOqRIA3KsaceU=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

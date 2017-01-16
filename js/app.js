@@ -5,7 +5,17 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services', '
         url: '/tab',
         abstract: true,
         templateUrl: 'templates/tabs.html',
-        controller: function ($scope, settings) {
+        controller: function ($scope, settings, $localStorage) {
+        	if($localStorage.nightMode){
+            	$scope.nMod = {nightMode: $localStorage.nightMode}
+            	 $scope.them = 'bar-dark';
+            	 $scope.curStyle = settings.setStyle(true);
+            }else{
+            	$scope.nMod = {nightMode: false}
+            	 $scope.them = 'bar-stable';
+            	 $scope.curStyle = settings.setStyle(false);
+            }
+        	
           $scope.$on('css:changed', function () {
             if (settings.getNight()) {
               $scope.them = 'positive tabs-dark';
@@ -52,8 +62,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services', '
             templateUrl: 'templates/chapter.html',
             controller: 'BibleChaptersCtrl'
           }
-        },
-      	data: {title: ":book"}
+        }
       })
 
       .state('tab.text', {
@@ -85,5 +94,4 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services', '
     }
     
     document.addEventListener( 'tizenhwkey', buttonEvent );
-
   });
