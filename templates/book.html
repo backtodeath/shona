@@ -1,0 +1,9 @@
+<ion-view>
+  <ion-content class="padding" ng-style="curStyle.main">
+    <div class="list">
+      <div class="item item-stable" ng-style="curStyle.button"  ng-repeat="book in bible" ng-click="changePage(book)">
+        <h2 style="font-weight: bold;" ng-style="curStyle.button">{{book}}</h2>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>

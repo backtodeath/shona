@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/dttw" version="1.0.0" viewmodes="fullscreen">
-    <tizen:application id="qeGMSdGU9T.Donttapthewhite" package="qeGMSdGU9T" required_version="2.3"/>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/bibleOffline" version="1.0.0" viewmodes="fullscreen">
+    <tizen:application id="R3FlCwzFaK.Bibleoffline" package="R3FlCwzFaK" required_version="2.3"/>
     <author email="lirolaluis@gmail.com">Luis Lirola</author>
     <content src="index.html"/>
     <feature name="http://tizen.org/feature/screen.size.all"/>
-    <icon src="dttw_117.png" height="117" width="117"/>
-    <name>Don't tap the white</name>
+    <icon src="bible_117.png" height="117" width="117"/>
+    <name>Bible offline</name>
     <tizen:profile name="mobile"/>
     <tizen:setting screen-orientation="portrait" context-menu="enable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
 </widget>

@@ -1,0 +1,17 @@
+<ion-view ng-style="curStyle.main">
+  <ion-content>
+    <ion-list >
+    <ion-toggle  ng-model="nMod.nightMode" ng-style="curStyle.main">
+        Enable Night-Mode
+    </ion-toggle>
+
+      <button class="button button-full button-stable" ng-style="curStyle.listItem">
+        Font size
+      </button>
+      <button class="button icon ion-android-remove" ng-style="curStyle.button" ng-click="minSize()"></button>
+
+      <button class="button icon ion-android-add" style="float:right" ng-style="curStyle.button" ng-click="plusSize()" ></button>
+
+    </ion-list>
+  </ion-content>
+</ion-view>
