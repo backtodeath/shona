@@ -4,279 +4,147 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="bible%2FBooks.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>3iuuF9u5ZdE+2gpyo2C4rObb5Ro1TcvPI9I5TaOPW34=</DigestValue>
+<DigestValue>VzhTc4Cxk/0liEkwNue/1R2tLntgUbTSPwgSZKNhvHg=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F1Chronicles.json">
+<Reference URI="bible%2Fparts%2F1Madzimambo.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>6CCedU+VKTJkBjhob1LE6GdXrokPU6g0nr2hQx/0GJw=</DigestValue>
+<DigestValue>x1ZoDIyE6Pj+V1v2x/srZ1iDN5SDT+SobhAK2fy0HzM=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F1Corinthians.json">
+<Reference URI="bible%2Fparts%2F1Makoronike.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Mp1j1tCSqHsf64oAxoCJ2qNOmjEv9mnCPdPWjQeiJU8=</DigestValue>
+<DigestValue>ix202S8DzfYmbzPhZKHpOC6vFByE5oqGrsTG9Qv4vps=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F1John.json">
+<Reference URI="bible%2Fparts%2F1Samueri.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>9DmFSLd8PgFOSbEOnAI+MjW4zB/WfQaDdWZW0NIbqds=</DigestValue>
+<DigestValue>jTmc512j2qtDTPqcFN2hbs9Ok3txy3c1L96+zsL6taI=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F1Kings.json">
+<Reference URI="bible%2Fparts%2F2Madzimambo.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>gQ1CqV8btrzxnlOug6y8NxLSQgQhha5ZyzyGNBRrTUc=</DigestValue>
+<DigestValue>Wc9f5NAfo5lhrs5U5iy1K9eXz5mro8lEmLerVtrfkus=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F1Peter.json">
+<Reference URI="bible%2Fparts%2F2Makoronike.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>dnsJSp9e20hXSaj3Nr4tWPWvX7dplzZestG8+OjcUZk=</DigestValue>
+<DigestValue>p0DJ5rw3EoQVE4BCEtgncsfuBnHiEbeZYxC8gOvkjpU=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F1Samuel.json">
+<Reference URI="bible%2Fparts%2F2Samueri.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>mFUNYxn9w/OLtDNMMnp4klHbAKFq3b9Rc0FcwLBScbA=</DigestValue>
+<DigestValue>Cq7CNDSYjLknigRPt9VxakhJekt78JKOBywGMJ1WRfc=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F1Thessalonians.json">
+<Reference URI="bible%2Fparts%2FAmosi.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>LEzK3V41uXjuOY2pWftS0Duw0GooorUVrBmb4H4icO0=</DigestValue>
+<DigestValue>uFJNUu07/wrwmjHKSQVMlLncZx36ZCM7e0MyJJo/DcI=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F1Timothy.json">
+<Reference URI="bible%2Fparts%2FDhanieri.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>sGxiQCZB+aat9t8Vf2A4jeLvcXPUi0qhUfztWWCI0Yo=</DigestValue>
+<DigestValue>Ajgs2zUH6phdcCoe6sbqq2aFNDAQdRrN9/2SEQzXPsg=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F2Chronicles">
+<Reference URI="bible%2Fparts%2FDhuteronomi.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Aa4r3sKmczUJHOzKEr+HVZC7fDKilVKyF+PiXiSfdoA=</DigestValue>
+<DigestValue>naSwlVkAAjYqVYx05Fo/FVZ8fCHIxmdyGbucVRL1W6s=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F2Corinthians.json">
+<Reference URI="bible%2Fparts%2FEkisodho.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>3v9MzPRO27bzcKXXYj6HWTbu65xE255nYFDkGgz+YGE=</DigestValue>
+<DigestValue>+FXsG0YtUEEhWa8mvhb7jlNMQDRJwfssRtSFJpCh6SM=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F2John.json">
+<Reference URI="bible%2Fparts%2FEsteri.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>NL5dGVTCXgaU0GdS5+OtU6ba0y5uwlomiNK0qkJ2JDw=</DigestValue>
+<DigestValue>asrL2qy25Rc6MtVWpvJ7Z47CNyVK6UdX4tSHd3U71SA=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F2Kings.json">
+<Reference URI="bible%2Fparts%2FEzekieri.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>hNEe9ikEQqkpQyidlIl/5Zy6tJmNRr97jA7nI0/IMXk=</DigestValue>
+<DigestValue>4tfjGjoncEKc1hSTK5Sgk5FwtjcUZ+ruuOI2p3X84Hw=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F2Peter.json">
+<Reference URI="bible%2Fparts%2FEzira.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>FkNnfJ3FmK4M8e5CrJ5JwgSpCPod3VcaWizF2+MoStA=</DigestValue>
+<DigestValue>XPpG6XoEGQziDccwrGWhaD6kL1ttG80AFQoa9OcGAx4=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F2Samuel.json">
+<Reference URI="bible%2Fparts%2FGenesisi.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>mUxRNg3BBveL8kdmH0nRiuyTpWazx22U8t2ha9llaI4=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2F2Thessalonians.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>x6GGRq2l1zoopK5pQg2eEFYuv8wL+DrslN8PCn0fEhk=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2F2Timothy.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>wZ1GKnXJbv547wMJ1tK54ha8MdvV1QR0y0lvNM9zCow=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2F3John.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>AfaMsuVw8VemGCUCE6+oHFArLTnEylANu2UOii+8Sds=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FActs.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>CTRqqpOhs/O/kZ3g+d4jkPdi/S1+J/4s1km1Rr5EBR0=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FAmos.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>yalmA4QBYe8M/JfwaIff/PAzXHdGqd1M0HyDnrwJ2jQ=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FColossians.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>mQhs+2cLdmCydj1x9FpK7qRzk6x6/FbTvzblAIIIfgE=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FDaniel.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>S1BwyvxQPbRK5Ntfs665HhztU2WCiyrLDhZ1G3Yq2ZM=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FDeuteronomy.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ibv/TcUWDE11zma2PowO9LfIlBjA4Rr0JivibE+uItM=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FEcclesiastes.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Z0iA64Q0Mu+SnspJPG30nz3VtGrCzlzUBHmk3Efe7iM=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FEphesians.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>BvqcXqy+ednO/Fu7sEboYg1bFlS6hPqljybfydkIaSs=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FEsther.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>A4Y91smY6/uVLb46dRygDyv/sD5CHGAT0pXi4d3ZhiM=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FExodus.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>A2C2+XByF0eA6AXjbzpE1A5I7PUVL/u2dqLGzXKrL4Y=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FEzekiel.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>cyHiSjK8Snos1mpH5RsiScvG9vHUD3TbwzdQEFCG0Yk=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FEzra.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>8vZA2pIFfQW3I/ppymMV5dzf3EzD0kKNZ1Mo2voIOyw=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FGalatians.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>IUJpNcY7/MU6ieH6Bykp80TjiDIu+ozwEzj6qT6YTE0=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FGenesis.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>sjQmUFS5l4/X4z8uK+WYnB7L8pTjfpTGkCzypG7cwXY=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FHabakkuk.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>GAVgAmWnnj5AizJjyjoNOiObgpiDGxOtC8QaiwjPe8A=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FHaggai.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>/QZ3OMEu6yLUtApAg5DAVoziZfKJPnLhLmoyjHqOqik=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FHebrews.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>KaXCmzGEihQOWcnfSTBqPfUDfMToAz+leOtE6EXCJ3s=</DigestValue>
+<DigestValue>GBjqpSe2TXLgHn32hVOd039RKRycZJ3XyfxlwpKTF5k=</DigestValue>
 </Reference>
 <Reference URI="bible%2Fparts%2FHosea.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>A0N2J4qR3svO7mi94f82a6kVf2VnRPh0KWCk1Jmn/6U=</DigestValue>
+<DigestValue>LCfFErSmNN7EWaEnfKFjdyRY5I4kqTEtn3swi6AltVI=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FIsaiah.json">
+<Reference URI="bible%2Fparts%2FIsaya.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Rd97JeNKGDx96o0g/112h8f1pcrtiO1SVEFzxUGXWGs=</DigestValue>
+<DigestValue>MFLUzdJzbqlWQpRaB+DqXVw/rR/x2cilZR1BkraIKE8=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FJames.json">
+<Reference URI="bible%2Fparts%2FJeremia.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>++Y/hSDOO47I7pBmP1BSxfPFayxCULPDxcJeRJwA084=</DigestValue>
+<DigestValue>vWA4zHI6iu4H+0HZQ2EQrcv20WfPlHcoHrB1agX36UA=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FJeremiah.json">
+<Reference URI="bible%2Fparts%2FJobho.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>G8Q1fQM2hJ5MG7ZelMMJb3QeFnWLI5K8D4g2legZRHU=</DigestValue>
+<DigestValue>VgjwvzkRsBcnpryhVBd7V4KYuQA0DIoUOwhTWICMAKM=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FJob.json">
+<Reference URI="bible%2Fparts%2FJoere.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>TtQ9aMJl0RMkPFwMkls2g+01dIbMPWacTv6/Dri6bI0=</DigestValue>
+<DigestValue>G1r9LXZ5Zkx7o/dbeMlP5n+LHi1Bx7+Cg2/0sAzyMnE=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FJoel.json">
+<Reference URI="bible%2Fparts%2FJona.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>577+p46q89K/RBpT1ZO+Qa+4dHT9fq+SnReM80gGdw8=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FJohn.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>73cdgoCYgclvtbsOUzK6SSw2oRWADvsgJUoLNT8QSLg=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FJonah.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>QKdTQjn9fH6l5awMffcMBoxMGgCELbwlAeVrBj3So8k=</DigestValue>
+<DigestValue>toE1Xu2VB2vkw+KSigNm0vTadugXa/bgfi2DhLcI664=</DigestValue>
 </Reference>
 <Reference URI="bible%2Fparts%2FJoshua.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Nz7qVMKVqyt8+YU4ZyBhoFrBHymJzKLmjZIZF/yx1UA=</DigestValue>
+<DigestValue>iH6c+2Y60xpQCmNoQdJMe5myZxoZdKw02oI/sgXzHa8=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FJude.json">
+<Reference URI="bible%2Fparts%2FKuungudza.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>RBTIPmbGp5/+uUyRkA/PauXG2lvxbqEt0QvChIzvX5s=</DigestValue>
+<DigestValue>10cHcuHvmxL3AqlXK5vEx76LIaIaGHZwhLNeoOhaWTA=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FJudges.json">
+<Reference URI="bible%2Fparts%2FMapisarema.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>4+Iha355RrfAiv4TK4xgXIvYF+KwzTz+9N/0l5mvJ8k=</DigestValue>
+<DigestValue>8eLggeGfs3So8cIWLbUgeb8RF/WX+YurwaOEhl83v+w=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FLamentations.json">
+<Reference URI="bible%2Fparts%2FMika.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>3cU+W8N4UyBq2KC7xOF7/EsCX+3xV58pgCgTjFyrcY0=</DigestValue>
+<DigestValue>45sVvM8HVHquQpMKKb0gqdgC/gJl9DAUSEqH4s9r1gE=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FLeviticus.json">
+<Reference URI="bible%2Fparts%2FMuparidzi.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>U/1bTjTYtw1I7UzDg4+0RATjciNxmeTL6RF+oe17q8E=</DigestValue>
+<DigestValue>SFJXlpmE8Fy9mSQqrwb9azltByoXP4ZkK03Umw4/4t4=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FLuke.json">
+<Reference URI="bible%2Fparts%2FNehemia.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>8kg22qYqJHaC/gP2dK+XPfNFYtFeJl7bOBLVvbqcW8U=</DigestValue>
+<DigestValue>5xJ7/u0soj7xUs/hFGZM0nlnes/9lpwclAVL4vj/Otg=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FMalachi.json">
+<Reference URI="bible%2Fparts%2FNumeri.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>CM1VdMPxPwY0TgSUfb8eRmJl9uEUOymtUqybGpd3CrA=</DigestValue>
+<DigestValue>FWK7Fyal2DM+WiCdus2sU49QExUehVnJWbmd61+rIa0=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FMark.json">
+<Reference URI="bible%2Fparts%2FObhadhia.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>nEx2LU0W7Bl3Kk4W37F6FW1DV6HZmEWoj6m2xDpi8/4=</DigestValue>
+<DigestValue>JBcXYJ781jeL+4jNtYegpc82Jy48qQl+Qs60zJt43eE=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FMatthew.json">
+<Reference URI="bible%2Fparts%2FRevhitiko.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>urKqyjyLwsBmmp/zy+Z/dOIBSpU8DMk0Sz+H18/qRxI=</DigestValue>
+<DigestValue>AOOwWyjG2LchNzO7MNcrLUuqkyVlb7Ex2dtSry+ilhg=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FMicah.json">
+<Reference URI="bible%2Fparts%2FRukuru.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>8EV6ZerkHaWTJSVpmtW9e5nh8SYkh18R15fGVV13YoE=</DigestValue>
+<DigestValue>/M7N4Zs3Fofq8NW4DRbRkzLG6HKa4dCPgVNILyqUI6Y=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FNahum.json">
+<Reference URI="bible%2Fparts%2FRute.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>JIwf7P5608HkaH3zYbn5HwlN5NMVl/8BZjX0JEeia2E=</DigestValue>
+<DigestValue>1MkEtUEvO52HJ7+VVkZT+laEmHH9cwClvYUn/ZT8wsc=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FNehemiah.json">
+<Reference URI="bible%2Fparts%2FVatongi.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>YCdA3GEBNE77sCblh/d/AYiGDmo16Qzkk9278GIdgXg=</DigestValue>
+<DigestValue>s7VOA8kfAUjYwfEq0k97EhvfqfG2tP0XlK1PBHqIr2A=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FNumbers.json">
+<Reference URI="bible%2Fparts%2FZvirevo.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>f5at3B0DKNSbktEFvgNiJEm18aZw8ff46iHBg5jbEE8=</DigestValue>
+<DigestValue>Ct/KbBe2+zRwUQwf3Yyp9oE0uj5Qlyz2YIcMCE86g2E=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2FObadiah.json">
+<Reference URI="bible%2Fparts%2Fdefault.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>npIUHtxjjFtLKXWrGUTt4REVl8CHCbWrgvDYcup9Vco=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FPhilemon.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ymJDUCf3R1KefJ9XidZRi8MltTOgznSQW2Q1sbi4OJc=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FPhilippians.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>MG3Q6QIonb1IgX69c8EriqNsxwbzcDI/nyrP2EJomes=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FProverbs.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Wjgf+GFKABhYuEzPtU7wAUEQG+5kVtCqK/ENkmJv5oI=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FPsalms.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>8MOwGUmYN0RHtJ6ylDS3WHqCt4o+8iTSGMUjywe+UMU=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FRevelation.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>erYUTPNw5ynRqbujDxQ9aEIDrd3ygRlyGMEK8EBBxyU=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FRomans.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>y7a6TsMUmaXMaECmjg6lCDIBcBRJZCv2izWAzi+mK2E=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FRuth.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>qUMaXyuyqbbRrMFTaa3tNkJOtVmeTUw8Gk9k50iFPm4=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FSongofSolomon.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>oFN6PAef++I+ZqX4T8LE4bRjhTW5kqYLahm0MaLkOS0=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FTitus.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>hvpbDf7zv2S+GA97otCUnwr6E+hjTfZa350LxKdKdPc=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FZechariah.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>hnwsA4nSu2tGYEdHUhLq/yaoA6vllqOG2S/h9ubZP1w=</DigestValue>
-</Reference>
-<Reference URI="bible%2Fparts%2FZephaniah.json">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>raUcmXAuRzBDDsc8yMWZloaJqEvcztLIXjXJA+uwAxo=</DigestValue>
-</Reference>
-<Reference URI="bible_117.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>kfOJM+7QS+gfkwnXrL1RgYwf2CNpRCA3GL9vemiO8xM=</DigestValue>
+<DigestValue>ivIX3sbqKb6aw+vyGPOhfk9eyPwVvjbqAxINC9fmesE=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>GOhafZN/emv3gaDnqcNWcp+MgSbP3c9IxFQEuwizy3c=</DigestValue>
+<DigestValue>X3Cs3kHFBLZgN3bn1JrylP4JijWFcONg1mo/Oervxuo=</DigestValue>
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -284,19 +152,19 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>I6J2T4avZR3N+OjcJhOkxJ6fZZ80xGtw8Qpx66UuF6A=</DigestValue>
+<DigestValue>tYFr6E4bH8Dkdl7LM0IHPDIdR0l6oZ3yyWIAzEQDIj4=</DigestValue>
 </Reference>
 <Reference URI="js%2Fapp.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ax3LQny8X5772nSEb50bV2mqSo61LM6eXFdIfqh9U1c=</DigestValue>
+<DigestValue>GoeKTmtpmiNNkxTiTJzknQ++wUGvF2tV42Nx1KMLXn8=</DigestValue>
 </Reference>
 <Reference URI="js%2Fcontrollers.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>D9qzuclCXEoJOEkpBh7CQg2XXqYBAw07GBON/G1LeuU=</DigestValue>
+<DigestValue>RhXQo1gVdIJIvnmqd1ZFQzEcUzG0dnnzPGIGYHk9qck=</DigestValue>
 </Reference>
 <Reference URI="js%2Fservices.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>magnF1sSgod/s/ejw0PDOi80+EZeiAKsB216lKVIq/s=</DigestValue>
+<DigestValue>6O0t+HcLkN8avZ3tB5gGXSkdrWnQuEougc3tDAuhA0Y=</DigestValue>
 </Reference>
 <Reference URI="lib%2Fionic%2Fcss%2Fionic.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -366,6 +234,10 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>f6fmAu8EbpDpVJSbLbyh7N6oAd3NfujgaE3Z1lS63+I=</DigestValue>
 </Reference>
+<Reference URI="shona.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GoAM4ja8pRgDr77q7T9DTvrtq4DP2Mo3zpaLQTTo78U=</DigestValue>
+</Reference>
 <Reference URI="templates%2Fbook.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>HJ7Q4zKMfm/xVhsIncFGpb7Ox7yKOTkTKzxpQqpGqVQ=</DigestValue>
@@ -378,21 +250,17 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>qRgP+YYGhF6v3pGZS4tIRW1siFAObhX3vkvXkGlRi9M=</DigestValue>
 </Reference>
-<Reference URI="templates%2Ftab-salvation.html">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>KGdpFznVKQWsF+0KiO7ZFEHBEFkb8uEMdDA0wguwQq8=</DigestValue>
-</Reference>
 <Reference URI="templates%2Ftab-settings.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>E47DvlQvI8RpX8fcvKqLhDgF0TJCLzwHnsb0L7iiXnQ=</DigestValue>
 </Reference>
 <Reference URI="templates%2Ftabs.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>1jKiWm3Jw216Iner0++9qfHTsNrRe00zdgiKpd4eTOI=</DigestValue>
+<DigestValue>nfTUCCB64QQEU4erVNoV1gaHD8pEIg53rcuDfVNJv64=</DigestValue>
 </Reference>
 <Reference URI="templates%2Ftext.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>/DpslQKbnR0fvd3VavaIV3WRjIXyxkPzhH7Yv8pFBnA=</DigestValue>
+<DigestValue>ML+IENJV1mNwcuWGj1M7t/766DKDbHygaO4J1vMRNfI=</DigestValue>
 </Reference>
 <Reference URI="#prop">
 <Transforms>
@@ -403,9 +271,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-sUUl7e5quhqITJ+tzbtbLqrLJPwW+DYetjuK1SHqFHDovFiLVUPG++pmWtqWGtnI/WoFyZ5qdlBM
-3jKGzkNBFc+rijp309QXI3PcgY+5y+unJcuFEtxb07vSO1kOHqqV3NKp2HliqdmiHBhiYPo857Fm
-7aMd1fqOqRIA3KsaceU=
+s+BHmY3hPUBHC489ry5L8vwj/vkqn+hbzKKn8C6daXlikeh1tAx2iqMjpIjVu4/p50pyUnGkMGn5
+F3oa8oawXodaU/ZgjyRsTigwHzsIDGJuPF29nND+gaxBoyIWp9UC6Y+sAgCXgCq9RmxlaVIw3GKM
+nyV8Uj+QGHxeRiasIjY=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

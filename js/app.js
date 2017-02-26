@@ -1,5 +1,5 @@
 angular.module('starter', ['ionic', 'starter.controllers', 'starter.services', 'ngStorage'])
-  .config(function ($stateProvider, $urlRouterProvider) {
+  .config(function ($stateProvider, $urlRouterProvider, $uibModal) {
     $stateProvider
       .state('tab', {
         url: '/tab',
@@ -23,16 +23,6 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services', '
               $scope.them = 'active-positive';
             }
           });
-        }
-      })
-
-      .state('tab.salvation', {
-        url: '/salvation',
-        views: {
-          'tab-salvation': {
-            templateUrl: 'templates/tab-salvation.html',
-            controller: 'SalvationCtrl'
-          }
         }
       })
 
@@ -85,13 +75,25 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services', '
         }
       });
 
-    $urlRouterProvider.otherwise('/tab/salvation');
+    $urlRouterProvider.otherwise('/tab/bible');
+   
     
     var buttonEvent = function(e) {
-        if ( e.keyName == "back" ) {
-        	tizen.application.getCurrentApplication().exit();
-        }
-    }
-    
-    document.addEventListener( 'tizenhwkey', buttonEvent );
+		if (e.keyName == "back") {
+			modalInstance = $uibModal.open({
+		          animation: true,
+		          template: '',
+		          resolve: {
+		            params: function() {
+		              return params;
+		            }
+		          }
+		        });
+			if (confirm('Realy want to exit?')) {
+				tizen.application.getCurrentApplication().exit();
+			}
+		}
+	}
+
+	document.addEventListener('tizenhwkey', buttonEvent);
   });

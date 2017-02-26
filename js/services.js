@@ -45,13 +45,13 @@ angular.module('starter.services', [])
 
     function newTestament() {
       return getBookNames().then(function (books) {
-        return books.slice(39, books.size);
+        return books.slice(17, books.size);
       });
     }
 
     function oldTestament() {
       return getBookNames().then(function (books) {
-        return books.slice(0, 39);
+        return books.slice(0, 17);
       });
     }
 
