@@ -18,11 +18,23 @@
 <script src="js/services.js"></script>
 </head>
 <body ng-app="starter">
-	<ion-nav-bar class="bar-dark"> 
-		<ion-nav-back-button class="button-clear">
-	 		<i class="ion-ios-arrow-back"></i><span>{{$rootScope.title}}</span>
-	 	</ion-nav-back-button> 
-	 </ion-nav-bar>
+	<ion-nav-bar class="bar-dark"> <ion-nav-back-button
+		class="button-clear"> <i
+		class="ion-ios-arrow-back"></i>
+	<span>{{$rootScope.title}}</span> </ion-nav-back-button> </ion-nav-bar>
 	<ion-nav-view></ion-nav-view>
+	<script id="templates/modal.html" type="text/ng-template">
+      <ion-modal-view class="exit-modal">
+        <ion-header-bar class="bar bar-header bar-positive">
+          <h1 class="title">Realy want to exit?</h1>
+        </ion-header-bar>
+        <ion-content class="padding">
+          	<button class="button button-balanced" style="width:38%" ng-click="getApps()">More Apps</button>
+            <button class="button button-positive" style="width:28%" ng-click="exit()">Exit</button>
+			<button class="button button-stable"  style="width:28%" ng-click="modal.hide()">Cancel</button>
+          </div>
+        </ion-content>
+      </ion-modal-view>
+    </script>
 </body>
 </html>

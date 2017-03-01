@@ -1,8 +1,13 @@
 bliffser {
-  color: #2c2c2c;
-  background: #fe9241;
+	color: #2c2c2c;
+	background: #fe9241;
 }
 
-.button.back-button{
+.button.back-button {
 	padding: 0 15px !important;
+}
+
+.exit-modal {
+	height: 20%;
+	top: 80%;
 }
